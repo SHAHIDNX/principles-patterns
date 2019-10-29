@@ -1,6 +1,7 @@
 package com.design.basics;
 
 //Supported colors,will add orange and yello later.
+//
 enum Color{
     RED, GREEN;
 
